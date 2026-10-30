@@ -79,6 +79,7 @@ Must implement the following methods: `.get(key)` and `.set(key, value)`, Check 
 ## Related
 
 - [bottleneck](https://github.com/SGrondin/bottleneck) – Job scheduler and rate limiter.
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 - [limiter](https://github.com/jhurliman/node-rate-limiter) – Provides a generic rate limiter and token bucket for Node.js.
 
 ## License
